@@ -8,7 +8,7 @@ This tool allows you to view generated Allure Reports locally without installing
 
 1.  **Generate Report:** Make sure you have an `allure-report` folder containing `index.html` generated from your results.
     * *Reference:* [Generate reports manually](https://allurereport.org/docs/v3/generate-report/#generate-reports-manually-from-existing-results)
-2.  **Upload:** Drag and drop the **entire** `allure-report` folder into the viewer.
+2.  **Upload:** Drag and drop the **entire** `allure-report` folder into the [viewer](https://nurulsilpia.github.io/playwright-allure-report-viewer/).
 3.  **Enjoy:** View your analytics immediately.
 
 <p align="center">
